@@ -1,4 +1,4 @@
-### 🎨 Character Prompt: Wanderer / Scaramouche
+### 🎨 Character Prompt:文生图（基于prompt1）
 
 **Quality & Style (画质与风格)**
 > (masterpiece, best quality, high resolution, highly detailed:1.3), official art style, anime coloring, solo, male focus
