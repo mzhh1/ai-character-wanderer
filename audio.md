@@ -1,4 +1,4 @@
-### 🎵 AI Music Prompt: The Ballad of the Wanderer
+### 🎵 AI Music Prompt: The Ballad of the Wanderer(使用suno）
 
 **Style Tags:**
 > J-Rock, Fast Tempo, Traditional Japanese Instruments, Shakuhachi (Bamboo Flute), Koto, Electric Guitar, Orchestral Hybrid, Emotional, Soaring Vocals, Dramatic, Anemo atmosphere.
@@ -8,7 +8,7 @@
 
 
 [名为「重生」的风.mp3](https://github.com/user-attachments/files/24291360/default.mp3)
-### 🎵 AI Music Prompt: The False God's Echo
+### 🎵 AI Music Prompt: The False God's Echo(使用suno）
 
 **Style Tags:**
 > Industrial Metal, Dubstep drop, Dark Electronic, Operatic Vocals (Bohemian Rhapsody style), Chaotic, Heavy Bass, Synthesizer, Aggressive, Minor Key.
