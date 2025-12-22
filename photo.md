@@ -1,20 +1,28 @@
 ### 🎨 Character Prompt:文生图（基于prompt1）
 
-**Quality & Style**
-(masterpiece, best quality, high resolution, highly detailed:1.3), high-end digital illustration style, clean anime cel-shading, vibrant coloring, solo focus
+### 🌑 提示词分享：地下遗迹中的冷漠少年
 
-**Appearance Core**
-Short indigo-blue hair, distinctive straight-cut sidelocks, small braided tail at the nape, (intense deep violet eyes with glowing pupils:1.2), subtle red eyeliner around the lids, youthful but sharp facial features
+> **场景描述**：幽暗潮湿的古代地下洞窟，发光植物与机械核心映衬着一位神情轻蔑、头戴斗笠的蓝发少年。
 
-**Expression & Pose**
-Condescending facial expression, arrogant smirk, looking down at the camera, (arms crossed over chest:1.1), commanding presence
+#### 📋 正向提示词 (Positive Prompt)
 
-**Attire & Accessories**
-(Massive traditional ornate wide-brimmed hat:1.4) with long flowing decorative ribbons, intricate blue and black short-sleeved tunic with oriental patterns, baggy shorts, black compression undershirt, (ornate golden feather pendant hanging on the chest:1.2), a glowing teal gemstone ornament pinned on the shoulder
+```text
+(masterpiece, best quality, high resolution, highly detailed:1.3), semi-realism, anime art style, 8k wallpaper, detailed texture,
 
-**Environment & Setting**
-Inside a grand historical academy hall, surrounded by towering stacks of ancient books and weathered scrolls, lush indoor tropical potted plants, complex emerald and gold architectural details, vaulted ceilings
+solo, male, boy, (short indigo hair:1.2), (rat tail hair:1.1), hime cut sidelocks, deep violet eyes, (glowing pupils:1.1), red eyeliner,
 
-**Lighting & Atmosphere**
-Dappled sunlight filtering through large stained glass windows, visible dust motes dancing in the light beams, scholarly and silent atmosphere, cinematic lighting, Tyndall effect, sharp focus on the figure, shallow depth of field (bokeh)
+frowning, cold gaze, (contemptuous look:1.2), mocking smirk, arrogant, (arms crossed over chest:1.2), impatient, (fingers tapping on arm:1.1),
 
+(huge ichime-gasa hat:1.4), wide-brimmed hat, long dark flowing ribbons, blue and black short-sleeved tunic, black skin-tight undershirt, baggy shorts, (golden feather ornament on chest:1.2), shiny accessories,
+
+(ancient underground cave ruins:1.3), dark and damp, rough mossy rock walls, broken stone pillars, dust, rubble on ground, puddles, (bioluminescent blue plants:1.2), ancient mechanical cores in background,
+
+dim lighting, (cold blue glow:1.1), intermittent lighting, dramatic shadows, cinematic lighting, mysterious atmosphere, subterranean, tyndall effect
+```
+
+#### 🚫 反向提示词 (Negative Prompt)
+
+```text
+(worst quality, low quality:1.4), (zombie, sketch, interlocked fingers, comic:1.1), (monochrome:1.3), (bad anatomy), text, watermark, username, signature, out of frame, cropped, bad proportions, extra limbs, disfigured, deformed, blurry
+```
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1d520dc6-0dfb-4a0f-8f0d-3fe51b9399d4" />
