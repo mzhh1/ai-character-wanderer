@@ -15,7 +15,7 @@ details: exquisite food texture, traditional tableware.
 (worst quality, low quality:1.4), lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,
 (smiling brightly), (happy), sweet food, cake, messy table, distorted chopsticks.
 
-<img width="1024" height="1024" alt="Dining" src="https://github.com/user-attachments/assets/9270059d-5385-4f31-9c14-43bf8dbe870f" />
+<img width="1024" height="1024" alt="Dining" src="https://github.com/user-attachments/assets/44c5873e-9bb2-4bd4-a888-cd68598f1cd9" />
 
 ---
 
@@ -36,7 +36,7 @@ details: detailed paper texture, ink bottle.
 blurry, jpeg artifacts, watermark, text,
 cheerful, studying happily, modern computer, modern pen, empty desk, dark room.
 
-<img width="1024" height="1024" alt="Scholar Mode" src="https://github.com/user-attachments/assets/07ccedd9-27b4-4e2a-a6c8-4c92501b323d" />
+<img width="1024" height="1024" alt="Scholar Mode" src="https://github.com/user-attachments/assets/60b44f5f-2edf-47ff-a8b1-3f09024f8d96" />
 
 ---
 
@@ -57,7 +57,7 @@ weapon: (floating silver bell catalyst nearby).
 blurry, static pose, boring composition, ground level,
 fire, water, heavy armor, holding sword (if catalyst user).
 
-<img width="1024" height="1024" alt="CombatSport" src="https://github.com/user-attachments/assets/9b711308-39cb-4c14-bdbc-c2d2062d5552" />
+<img width="1024" height="1024" alt="CombatSport" src="https://github.com/user-attachments/assets/e487f332-8b96-42f9-9500-15137ffc79cd" />
 
 ---
 
@@ -77,7 +77,7 @@ details: (huge conical hat placed beside him on grass), butterflies, fireflies.
 blurry, nightmare, dark, scary, open eyes, standing, energetic,
 modern bed, urban setting, crowd.
 
-<img width="1024" height="1024" alt="SleepingResting" src="https://github.com/user-attachments/assets/0c463b3b-cbf4-4c75-abb2-5cb9c61eae0d" />
+<img width="1024" height="1024" alt="SleepingResting" src="https://github.com/user-attachments/assets/46643b7a-35f8-434d-b6e7-b54e4f5822cc" />
 
 ---
 
@@ -97,4 +97,4 @@ details: wind blowing hair and ribbons, ethereal atmosphere, rim light from moon
 (worst quality, low quality:1.4), lowres, bad anatomy, bad hands, missing fingers, extra digit, facial distortion,
 blurry, noise, daylight, warm colors, sun, happy, smiling, partying, crowd.
 
-<img width="1024" height="1024" alt="NightReflection" src="https://github.com/user-attachments/assets/87579ca9-d6b6-48f5-b03f-8ccdb177e201" />
+<img width="1024" height="1024" alt="NightReflection" src="https://github.com/user-attachments/assets/b4db9b36-0f81-4831-b7ba-95fd7167e1bc" />
