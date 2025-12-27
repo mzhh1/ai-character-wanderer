@@ -14,14 +14,14 @@ This archive serves as the central index for the "Virtual Character Analysis" as
 
 *   🧪 **[Phase 1: Profile Approach](../02_Text_Gen/experiment_dialog/dialog1.md)** (Stereotype Trap)
 *   🧪 **[Phase 2: Narrative Approach](../02_Text_Gen/experiment_dialog/dialog2.md)** (Hallucination Trap)
-*   🧪 **[Phase 3: CoT & Logic Correction](../02_Text_Gen/experiment_dialog/dialog3(cot).md)** (Chain of Thought Attempt)
+*   🧪 **[Phase 3: CoT](../02_Text_Gen/experiment_dialog/dialog3(cot).md)** (Chain of Thought Attempt)
 
 ### 2.2 Final Results: Stable Workflow Output
 > 3 rounds of stable conversation generated using the final "Modular Workflow" (Analyst -> Inner Self -> Speaker), demonstrating long-term consistency.
 
-*   ✅ **[Conversation 1: Daily Interaction](../02_Text_Gen/final_result/conversation1.md)**
-*   ✅ **[Conversation 2: Deep Philosophy](../02_Text_Gen/final_result/conversation2.md)**
-*   ✅ **[Conversation 3: Conflict & reaction](../02_Text_Gen/final_result/conversation3.md)**
+*   ✅ **[Conversation 1: Virtual Scene](../02_Text_Gen/final_result/conversation1.md)**
+*   ✅ **[Conversation 2: Outlook On Life](../02_Text_Gen/final_result/conversation2.md)**
+*   ✅ **[Conversation 3: Daily Interaction](../02_Text_Gen/final_result/conversation3.md)**
 
 ## 3. Lifestyle Photo Series (Image Generation)
 > Photos of the character in 5 different scenarios (Dining, Scholar, Combat, Sleeping, Night).
@@ -42,4 +42,4 @@ This archive serves as the central index for the "Virtual Character Analysis" as
 ## 5. Visual Script (Video Generation)
 > Script description used for video generation.
 
-*   🎬 **[Video Script](../04_Audio_Video_Gen/video.md)**
+*   🎬 **[Video](../04_Audio_Video_Gen/video.md)**
